@@ -1,8 +1,8 @@
-# Control-of-Relay-Using-IoT-controller
-NAME:KAAVIYAN.K
+# NAME:KAAVIYAN.K
 
-REG NO:24006507
+# REG NO:24006507
 
+# EX-2 Control of Relay Using IoT controller
 ##  AIM:
 To control the Relay using Arduino controller
 
